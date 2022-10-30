@@ -8,7 +8,7 @@ Made during Lighthouse Labs (W08D4).
 
 ## Screenshots
 
-![]()
+!["Home"](https://raw.githubusercontent.com/michaelwangcode/scheduler-dashboard/master/screenshots/home.png)
 
 ## Setup
 
